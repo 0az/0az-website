@@ -9,6 +9,8 @@ theme = "hugo-coder"
 paginate = 20
 canonifyurls = true
 
+disableKinds = ["taxonomy","taxonomyTerm"]
+
 publishDir = "0az.github.io"
 
 pygmentsstyle = "bw"
